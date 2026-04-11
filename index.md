@@ -1,6 +1,6 @@
 ---
 layout: home
-title: About
+title: Welcome!
 ---
 
 <div style="display: flex; align-items: flex-start; gap: 30px;">
@@ -9,8 +9,6 @@ title: About
 
 <div>
 
-# Welcome!
-<br>
 I am Sophie Suda and I work as a postdoc at the University of [Basel](https://politikwissenschaft.philhist.unibas.ch/en/)! 
 
 My research focuses on anything to do with parliaments, parties, or parties in parliament. I am also a member of the Steering Committee of the [ECPR Standing Group on Parliaments](https://ecpr.eu/group/parliaments).
