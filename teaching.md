@@ -7,7 +7,7 @@ permalink: /teaching/
 ## University of Basel
 
 <p>
-<strong>Angewandte Quantitative Methoden. Parteienanalyse anhand von Text und Reden</strong> (BA; 2025, 2026)<br>
+<strong>Angewandte Quantitative Methoden. Parteianalyse anhand von Text und Reden</strong> (BA; 2025, 2026)<br>
 <a href="/assets/pdf/2025Klartext_Syllabus.pdf">Syllabus 2025</a> · 
 <a href="/assets/pdf/2026Klartext_Syllabus.pdf">Syllabus 2026</a>
 </p>
