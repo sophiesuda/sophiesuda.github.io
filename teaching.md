@@ -80,5 +80,5 @@ University of Innsbruck (Austria): <strong>Politische Kommunikation und Wahlfors
 </p>
 
 <p>
-Högskolan Väst (Sweden): Erasmus Teaching Exchange. <strong>Comparative Politics and Public Administration</strong> (2023)
+Högskolan Väst (Sweden) for Erasmus Teaching Exchange: <strong>Comparative Politics and Public Administration</strong> (2023)
 </p>
