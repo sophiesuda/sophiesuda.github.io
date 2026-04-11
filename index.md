@@ -22,10 +22,22 @@ I am affiliated with the chair as well as an SNF project measuring the quality o
 
 </div>
 
-<p style="margin-top: 20px;">
+<p style="margin-top: 10px; font-size: 0.9em; line-height: 1.6;">
+
   <strong>Contact</strong><br>
-  Email: <a href="mailto:your.email@unibas.ch">sophie.suda@unibas.ch</a><br>
+
+  <img src="/assets/icons/mail.svg" width="16" style="vertical-align: middle;">
+  <a href="mailto:sophie.suda@unibas.ch">sophie.suda@unibas.ch</a><br>
+
+  <img src="/assets/icons/googlescholar.svg" width="16" style="vertical-align: middle;">
   <a href="https://scholar.google.com/citations?user=ICU1iy8AAAAJ&hl=de&oi=ao">Google Scholar</a><br>
+
+  <img src="/assets/icons/orcid.svg" width="16" style="vertical-align: middle;">
   <a href="https://orcid.org/0000-0001-8439-098X">ORCID</a><br>
+
+  <img src="/assets/icons/bluesky.svg" width="16" style="vertical-align: middle;">
   <a href="https://bsky.app/profile/sophsuda.bsky.social">Bluesky</a>
+
 </p>
+
+
