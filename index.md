@@ -1,7 +1,9 @@
 ---
 layout: home
 ---
-Welcome!
+<h1 style="text-align: center; font-weight: 700; font-size: 2.5em; margin-bottom: 30px;">
+  Welcome!
+</h1>
 
 <div style="display: flex; align-items: flex-start; gap: 30px;">
 
