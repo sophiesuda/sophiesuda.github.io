@@ -5,10 +5,10 @@ permalink: /teaching/
 ---
 
 ## University of Basel
-Angewandte Quantitative Methoden. Parteianalyse anhand von Text und Reden (BA; 2025, 2026) [Syllabus](/assets/pdf/2026Klartext_Syllabus.pdf)
-Angewandte Quantitative Methoden. Regieren in Zentralosteuropa (BA; 2025) [Syllabus](/assets/pdf/2025_CEE_Syllabus.pdf)
-Erfolgreich an der Macht. Regime, Institutionen, Akteure (BA; 2025) [Syllabus](/assets/pdf/2025Macht_Syllabus.pdf)
-Governing in Parliamentary Democracies. How governments are formed, how they govern, how they end (BA; 2024) [Syllabus](/assets/pdf/2024Govts_Syllabus.pdf)
+Angewandte Quantitative Methoden. Parteianalyse anhand von Text und Reden (BA; 2025, 2026) [Syllabus](/assets/pdf/2026Klartext_Syllabus.pdf) \\
+Angewandte Quantitative Methoden. Regieren in Zentralosteuropa (BA; 2025) [Syllabus](/assets/pdf/2025_CEE_Syllabus.pdf) \\
+Erfolgreich an der Macht. Regime, Institutionen, Akteure (BA; 2025) [Syllabus](/assets/pdf/2025Macht_Syllabus.pdf) \\
+Governing in Parliamentary Democracies. How governments are formed, how they govern, how they end (BA; 2024) [Syllabus](/assets/pdf/2024Govts_Syllabus.pdf) \\
 
 ## University of Greifswald
 Fortgeschrittene Quantitative Methoden (MA; 2020-2023) [Syllabus](/assets/pdf/2022FQM_Syllabus.pdf)
