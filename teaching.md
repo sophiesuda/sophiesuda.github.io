@@ -5,21 +5,80 @@ permalink: /teaching/
 ---
 
 ## University of Basel
-Angewandte Quantitative Methoden. Parteianalyse anhand von Text und Reden (BA; 2025, 2026) [Syllabus 2025](/assets/pdf/2025Klartext_Syllabus.pdf) [Syllabus 2026](/assets/pdf/2026Klartext_Syllabus.pdf) <br>
-Angewandte Quantitative Methoden. Regieren in Zentralosteuropa (BA; 2025) [Syllabus](/assets/pdf/2025_CEE_Syllabus.pdf) <br>
-Erfolgreich an der Macht. Regime, Institutionen, Akteure (BA; 2025) [Syllabus](/assets/pdf/2025Macht_Syllabus.pdf) <br>
-Governing in Parliamentary Democracies. How governments are formed, how they govern, how they end (BA; 2024) [Syllabus](/assets/pdf/2024Govts_Syllabus.pdf) <br>
+
+<p>
+<strong>Angewandte Quantitative Methoden. Parteienanalyse anhand von Text und Reden</strong> (BA; 2025, 2026)<br>
+<a href="/assets/pdf/2025Klartext_Syllabus.pdf">Syllabus 2025</a> · 
+<a href="/assets/pdf/2026Klartext_Syllabus.pdf">Syllabus 2026</a>
+</p>
+
+<p>
+<strong>Angewandte Quantitative Methoden. Regieren in Zentralosteuropa</strong> (BA; 2025)<br>
+<a href="/assets/pdf/2025_CEE_Syllabus.pdf">Syllabus</a>
+</p>
+
+<p>
+<strong>Erfolgreich an der Macht. Regime, Institutionen, Akteure</strong> (BA; 2025)<br>
+<a href="/assets/pdf/2025Macht_Syllabus.pdf">Syllabus</a>
+</p>
+
+<p>
+<strong>Governing in Parliamentary Democracies. How governments are formed, how they govern, how they end</strong> (BA; 2024)<br>
+<a href="/assets/pdf/2024Govts_Syllabus.pdf">Syllabus</a>
+</p>
+
 
 ## University of Greifswald
-Fortgeschrittene Quantitative Methoden (MA; 2020-2023) [Syllabus 2020](/assets/pdf/2020FQM_Syllabus.pdf) [Syllabus 2021](/assets/pdf/2021FQM_Syllabus.pdf) [Syllabus 2022](/assets/pdf/2022FQM_Syllabus.pdf) [Syllabus 2023](/assets/pdf/2023FQM_Syllabus.pdf)<br>
-R Workshop (Weekend Seminar; 2021, 2022)<br>
-Populist and Extremist Parties in Europe (MA; 2024) [Syllabus](/assets/pdf/2024PEPs_Syllabus.pdf)<br>
-Never Ever Getting Together? Coalition Governments in Parliamentary Democracies (BA; 2024) [Syllabus](/assets/pdf/2024Coalitions_Syllabus.pdf)<br>
-Making, Breaking, Acting. Governments in Parliamentary Democracies in their Institutional Context (BA; 2023) [Syllabus](/assets/pdf/2023Govts_Syllabus.pdf)<br>
-Where did the Party Go? Origins and Consequences of Party Position and Party Movement (MA; 2022) [Syllabus](/assets/pdf/2022_PartyMovement_Syllabus.pdf)<br>
-Regime Types or: How to Become a Successful Ruler (BA; 2021) [Syllabus](/assets/pdf/2021RegType_Syllabus.pdf)
+
+<p>
+<strong>Fortgeschrittene Quantitative Methoden</strong> (MA; 2020–2023)<br>
+<a href="/assets/pdf/2020FQM_Syllabus.pdf">2020</a> · 
+<a href="/assets/pdf/2021FQM_Syllabus.pdf">2021</a> · 
+<a href="/assets/pdf/2022FQM_Syllabus.pdf">2022</a> · 
+<a href="/assets/pdf/2023FQM_Syllabus.pdf">2023</a>
+</p>
+
+<p>
+<strong>R Workshop</strong> (Weekend Seminar; 2021, 2022)
+</p>
+
+<p>
+<strong>Populist and Extremist Parties in Europe</strong> (MA; 2024)<br>
+<a href="/assets/pdf/2024PEPs_Syllabus.pdf">Syllabus</a>
+</p>
+
+<p>
+<strong>Never Ever Getting Together? Coalition Governments in Parliamentary Democracies</strong> (BA; 2024)<br>
+<a href="/assets/pdf/2024Coalitions_Syllabus.pdf">Syllabus</a>
+</p>
+
+<p>
+<strong>Making, Breaking, Acting. Governments in Parliamentary Democracies in their Institutional Context</strong> (BA; 2023)<br>
+<a href="/assets/pdf/2023Govts_Syllabus.pdf">Syllabus</a>
+</p>
+
+<p>
+<strong>Where did the Party Go? Origins and Consequences of Party Position and Party Movement</strong> (MA; 2022)<br>
+<a href="/assets/pdf/2022_PartyMovement_Syllabus.pdf">Syllabus</a>
+</p>
+
+<p>
+<strong>Regime Types or: How to Become a Successful Ruler</strong> (BA; 2021)<br>
+<a href="/assets/pdf/2021RegType_Syllabus.pdf">Syllabus</a>
+</p>
+
 
 ## Other Teaching
-GESIS Workshop: Logistic Regression and Beyond. Modelling Categorical Dependent Variables (2023)<br>
-University of Innsbruck (Austria): Politische Kommunikation und Wahlforschung (2023) [Syllabus](/assets/pdf/2023Kommunikation_Syllabus.pdf)<br>
-Högskolan Väst (Sweden): Erasmus Teaching Exchange. Comparative Politics and Public Administration (2023)<br>
+
+<p>
+GESIS Workshop: Logistic Regression and Beyond. Modelling Categorical Dependent Variables (2023)
+</p>
+
+<p>
+University of Innsbruck (Austria): Politische Kommunikation und Wahlforschung (2023)<br>
+<a href="/assets/pdf/2023Kommunikation_Syllabus.pdf">Syllabus</a>
+</p>
+
+<p>
+Högskolan Väst (Sweden): Erasmus Teaching Exchange. Comparative Politics and Public Administration (2023)
+</p>
