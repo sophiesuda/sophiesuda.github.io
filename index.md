@@ -5,7 +5,7 @@ layout: home
   Welcome!
 </h1>
 <br>
-<div style="display: flex; align-items: flex-start; gap: 30px;">
+<div style="display: flex; gap: 30px; margin-top: 20px;">
 
 <img src="/assets/img/foto_webseite.jpg" alt="Profile photo" width="180" style="border-radius: 10px;">
 
