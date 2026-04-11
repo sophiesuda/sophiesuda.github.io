@@ -5,13 +5,13 @@ permalink: /teaching/
 ---
 
 ## University of Basel
-Angewandte Quantitative Methoden. Parteianalyse anhand von Text und Reden (BA; 2025, 2026) [Syllabus](/assets/pdf/2026Klartext_Syllabus.pdf) <br>
+Angewandte Quantitative Methoden. Parteianalyse anhand von Text und Reden (BA; 2025, 2026) [Syllabus](/assets/pdf/2025Klartext_Syllabus.pdf) [Syllabus](/assets/pdf/2026Klartext_Syllabus.pdf) <br>
 Angewandte Quantitative Methoden. Regieren in Zentralosteuropa (BA; 2025) [Syllabus](/assets/pdf/2025_CEE_Syllabus.pdf) <br>
 Erfolgreich an der Macht. Regime, Institutionen, Akteure (BA; 2025) [Syllabus](/assets/pdf/2025Macht_Syllabus.pdf) <br>
 Governing in Parliamentary Democracies. How governments are formed, how they govern, how they end (BA; 2024) [Syllabus](/assets/pdf/2024Govts_Syllabus.pdf) <br>
 
 ## University of Greifswald
-Fortgeschrittene Quantitative Methoden (MA; 2020-2023) [Syllabus](/assets/pdf/2022FQM_Syllabus.pdf)<br>
+Fortgeschrittene Quantitative Methoden (MA; 2020-2023) [Syllabus](/assets/pdf/2020FQM_Syllabus.pdf) [Syllabus](/assets/pdf/2021FQM_Syllabus.pdf) [Syllabus](/assets/pdf/2022FQM_Syllabus.pdf) [Syllabus](/assets/pdf/2023FQM_Syllabus.pdf)<br>
 R Workshop (Weekend Seminar; 2021, 2022)<br>
 Populist and Extremist Parties in Europe(MA; 2024) [Syllabus](/assets/pdf/2024PEPs_Syllabus.pdf)<br>
 Never Ever Getting Together? Coalition Governments in Parliamentary Democracies (BA; 2024) [Syllabus](/assets/pdf/2024Coalitions_Syllabus.pdf)<br>
