@@ -7,7 +7,9 @@ layout: home
 <br>
 <div style="display: flex; gap: 30px; margin-top: 20px;">
 
-<img src="/assets/img/foto_webseite.jpg" alt="Profile photo" width="180" style="border-radius: 10px;">
+<img src="/assets/img/foto_webseite.jpg" 
+     alt="Profile photo" 
+     style="width: 180px; height: auto; border-radius: 10px; object-fit: cover;">
 
 <div>
 
