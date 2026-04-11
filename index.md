@@ -21,3 +21,11 @@ I am affiliated with the chair as well as an SNF project measuring the quality o
 </div>
 
 </div>
+
+<p style="margin-top: 20px;">
+  <strong>Contact</strong><br>
+  Email: <a href="mailto:your.email@unibas.ch">sophie.suda@unibas.ch</a><br>
+  <a href="https://scholar.google.com/citations?user=ICU1iy8AAAAJ&hl=de&oi=ao">Google Scholar</a><br>
+  <a href="https://orcid.org/0000-0001-8439-098X">ORCID</a><br>
+  <a href="https://bsky.app/profile/sophsuda.bsky.social">Bluesky</a>
+</p>
