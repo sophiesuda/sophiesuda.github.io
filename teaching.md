@@ -32,10 +32,10 @@ permalink: /teaching/
 
 <p>
 <strong>Fortgeschrittene Quantitative Methoden</strong> (MA; 2020–2023)<br>
-<a href="/assets/pdf/2020FQM_Syllabus.pdf">2020</a> · 
-<a href="/assets/pdf/2021FQM_Syllabus.pdf">2021</a> · 
-<a href="/assets/pdf/2022FQM_Syllabus.pdf">2022</a> · 
-<a href="/assets/pdf/2023FQM_Syllabus.pdf">2023</a>
+<a href="/assets/pdf/2020FQM_Syllabus.pdf">Syllabus 2020</a> · 
+<a href="/assets/pdf/2021FQM_Syllabus.pdf">Syllabus 2021</a> · 
+<a href="/assets/pdf/2022FQM_Syllabus.pdf">Syllabus 2022</a> · 
+<a href="/assets/pdf/2023FQM_Syllabus.pdf">Syllabus 2023</a>
 </p>
 
 <p>
@@ -71,14 +71,14 @@ permalink: /teaching/
 ## Other Teaching
 
 <p>
-GESIS Workshop: Logistic Regression and Beyond. Modelling Categorical Dependent Variables (2023)
+GESIS Workshop: <strong>Logistic Regression and Beyond. Modelling Categorical Dependent Variables</strong> (2023)
 </p>
 
 <p>
-University of Innsbruck (Austria): Politische Kommunikation und Wahlforschung (2023)<br>
+University of Innsbruck (Austria): <strong>Politische Kommunikation und Wahlforschung</strong> (2023)<br>
 <a href="/assets/pdf/2023Kommunikation_Syllabus.pdf">Syllabus</a>
 </p>
 
 <p>
-Högskolan Väst (Sweden): Erasmus Teaching Exchange. Comparative Politics and Public Administration (2023)
+Högskolan Väst (Sweden): Erasmus Teaching Exchange. <strong>Comparative Politics and Public Administration</strong> (2023)
 </p>
