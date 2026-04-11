@@ -1,3 +1,9 @@
 title: Sophie Suda
 description: Website
 theme: minima
+
+header_pages:
+  - about.md
+  - research.md
+  - teaching.md
+  - cv.md
