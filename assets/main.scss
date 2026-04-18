@@ -47,3 +47,36 @@ body {
 p {
   margin-bottom: 1.2em;
 }
+
+.site-nav {
+  background-color: transparent;
+}
+
+@media screen and (max-width: 600px) {
+  .site-nav {
+    border: none;
+    background-color: transparent;
+  }
+
+  .site-nav .menu-icon > svg {
+    fill: white;
+  }
+
+  .site-nav input:checked ~ .trigger {
+    display: block;
+    background-color: #1e40af;
+    padding: 10px 15px;
+    border-radius: 8px;
+  }
+
+  .site-nav .page-link,
+  .site-nav .page-link:visited {
+    color: white !important;
+    display: block;
+    padding: 8px 0;
+  }
+
+  .site-nav .page-link:hover {
+    color: #c7d2fe !important;
+  }
+}
