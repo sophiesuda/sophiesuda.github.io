@@ -17,14 +17,12 @@ layout: home
       I am Sophie Suda and I work as a postdoc at the University of
       <a href="https://politikwissenschaft.philhist.unibas.ch/en/">Basel</a>.
     </p>
-
     <p>
       My research focuses on anything to do with parliaments, parties, or parties in parliament.
       I am also a member of the Steering Committee of the
       <a href="https://ecpr.eu/group/parliaments">ECPR Standing Group on Parliaments</a>.
       Besides that, I am interested in governments, institutions, and anything quantitative.
     </p>
-
     <p>
       I am affiliated with the chair as well as an SNF project measuring the quality of MPs.
       Before my position in Basel, I was a PhD student at the University of
