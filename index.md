@@ -36,8 +36,6 @@ layout: home
 
 </div>
 
-<!-- CONTACT SECTION AT THE BOTTOM -->
-
 <div style="max-width: 900px; margin: 30px auto 0 auto; font-size: 0.95em; line-height: 1.6;">
 
   <strong style="display:block; margin-bottom: 8px;">Contact</strong>
