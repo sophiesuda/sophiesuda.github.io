@@ -80,3 +80,59 @@ p {
     color: #c7d2fe !important;
   }
 }
+
+.home-intro {
+  display: flex;
+  align-items: flex-start;
+  gap: 30px;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.home-photo {
+  flex: 0 0 200px;
+}
+
+.profile-photo {
+  width: 180px;
+  height: auto;
+  border-radius: 10px;
+  display: block;
+}
+
+.home-text {
+  flex: 1;
+}
+
+.contact-block {
+  margin-top: 12px;
+  font-size: 0.95em;
+  line-height: 1.6;
+}
+
+@media screen and (max-width: 700px) {
+  .home-intro {
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+  }
+
+  .home-photo {
+    flex: none;
+    text-align: center;
+  }
+
+  .profile-photo {
+    width: 220px;
+    max-width: 80vw;
+    height: auto;
+  }
+
+  .home-text {
+    width: 100%;
+  }
+
+  .home-text p {
+    text-align: left;
+  }
+}
