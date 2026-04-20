@@ -25,7 +25,7 @@ layout: home
     </p>
     <p>
       I am affiliated with the chair as well as an SNF project measuring the quality of MPs.
-      Before my position in Basel, I was a PhD student at the University of
+      Before joining Basel, I was a PhD student at the University of
       <a href="https://ipk.uni-greifswald.de/en/">Greifswald</a>. My PhD, which I defended in December 2025, deals with the question of how parties change their behaviour over the course of the legislative cycle, i.e. how intra-party dynamics, coalition relations, and opposition behaviour change over time.
       Before that, I completed my BA and MA in Political Science at the University of
       <a href="https://www.sowi.uni-mannheim.de/en/">Mannheim</a>.
