@@ -8,7 +8,7 @@ permalink: /research/
 
 - Andorff-Woller, Max, Lisa Klagges, Marcel Lewandowsky and Sophie Suda (2026). Friendly foes or enemies within? Assessing the (in)stability of coalition governments with populists in Europe.  
   *Parliamentary Affairs*, 79(2): 380–413.
-   [Link](https://doi.org/10.1093/pa/gsaf018)
+  [Link](https://doi.org/10.1093/pa/gsaf018)
 
 - Stremming, Christina and Sophie Suda (2026). When crises unite. Changing party positions on foreign policy during critical events in Germany. *German Politics*, 1–24.  
   [Link](https://doi.org/10.1080/09644008.2026.2637592)
